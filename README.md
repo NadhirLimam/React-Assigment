@@ -1,1 +1,1 @@
-# React-Assigment
+This Project is for educational purposes only
